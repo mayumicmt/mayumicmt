@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="left">Hello World!!</p>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=mayumicmt&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=mayumicmt&locale=pt-br&mode=daily&theme=tokyonight&hide_border=false&border_radius=15&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayumicmt&radius=16&theme=material-palenight&area=true&order=5&custom_title=Contribui%C3%A7%C3%B5es%20da%20Chris" height="300" alt="activity-graph graph"  />
+</div>
+
+###
